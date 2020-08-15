@@ -1,0 +1,106 @@
+body {
+  background-color: #fff;
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  margin: 5% 5% 2%;
+  text-align: center;
+  letter-spacing: 1rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  margin-bottom: 3%;
+  text-align: center;
+  font-weight: bold;
+}
+
+h3 {
+  text-align: center;
+  font-weight: lighter;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Title Section */
+#title {
+  background-color: #ffc107;
+}
+
+.navbar-brand {
+  font-size: 1.8rem;
+  font-weight: 500;
+  letter-spacing: 5px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.title-container {
+  padding-top: 2rem;
+}
+
+.pubg-mobile {
+  width: 100%;
+}
+
+.title-coulmn {
+  text-align: center;
+}
+
+.download-button {
+  margin: 1rem;
+}
+
+/* section maps */
+#maps {
+  margin-top: 1rem;
+}
+
+.map-c {
+  margin-bottom: 1rem;
+}
+
+.card {
+  width: 100%;
+  text-align: center;
+}
+
+.map-img {
+  width: 100%;
+}
+
+/* GUNS */
+
+#guns {
+  background-color: #ffc107;
+}
+  margin-top: 1rem;
+}
+
+.guns-container {
+  text-align: center;
+}
+
+.guns-coulmn {
+  margin: 5% 0;
+}
+
+.guns-card {
+  height: 400px
+}
+
+.guns-img {
+  width: 90%;
+}
+
+/* Royal Pass */
+
+#royalpass {
+  margin-top: 1rem;
+
+}
